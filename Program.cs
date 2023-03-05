@@ -14,6 +14,7 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("blogdbDbConnecti
 );
 
 
+//Funcionamiento correcto de la api al 100%
 
 
 
