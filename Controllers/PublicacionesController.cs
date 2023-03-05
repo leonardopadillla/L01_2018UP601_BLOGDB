@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Practica1.Models;
+using L01_2018UP601_BLOGDB.Models;
 
-namespace Practica1.Controllers
+namespace L01_2018UP601_BLOGDB.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

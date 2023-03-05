@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Practica1.Models;
+using L01_2018UP601_BLOGDB.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
 
-namespace Practica1.Models
+namespace L01_2018UP601_BLOGDB.Models
 
 {
     public class BlogDbContext : DbContext

@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-namespace Practica1.Models
+namespace L01_2018UP601_BLOGDB.Models
 {
     public class Publicacion
     {

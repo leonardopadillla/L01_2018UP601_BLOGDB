@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\Practica1\\L01_2018UP601_BLOGDB.csproj": {}
+    "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\L01_2018UP601_BLOGDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\Practica1\\L01_2018UP601_BLOGDB.csproj": {
+    "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\L01_2018UP601_BLOGDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\Practica1\\L01_2018UP601_BLOGDB.csproj",
+        "projectUniqueName": "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\L01_2018UP601_BLOGDB.csproj",
         "projectName": "L01_2018UP601_BLOGDB",
-        "projectPath": "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\Practica1\\L01_2018UP601_BLOGDB.csproj",
+        "projectPath": "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\L01_2018UP601_BLOGDB.csproj",
         "packagesPath": "C:\\Users\\padil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\Practica1\\obj\\",
+        "outputPath": "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\padil\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/gQ+HFJQVbJD0N/cqrMfQ0jLbe3lpLhj88zrxm7zwf1BeyB/ahS/oJ6pVOG+n3pbbI3Qzv/Hveg0zmYQYpJ2eA==",
+  "dgSpecHash": "5CjH3GTUW08DzLFiE7BAH1ZG4+2Tj0vTfskGwNDimnCrVJhOQscy3SbEYirOmAwlgzNXVa1Wp/eg8f2FPEqCog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\Practica1.csproj",
+  "projectFilePath": "C:\\Users\\padil\\source\\repos\\L01_2018UP601_BLOGDB\\L01_2018UP601_BLOGDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\padil\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\padil\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
